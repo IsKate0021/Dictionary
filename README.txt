@@ -1,5 +1,7 @@
-# Terminal commands
+# Dictionary
+Development of "Dictionary" windows using PyQt5, MongoDB
 
+## Terminal commands
 ### Convert a .ui file to .py file
 ```bash
 pyuic5 %.ui file% -o %.py file%
@@ -11,6 +13,6 @@ pip install pymongo
 ```
 
 ### Install PyQt5
-```bash
+``` bash
 pip install pyqt5
 ```
